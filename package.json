@@ -1,0 +1,15 @@
+{
+  "name": "second_site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/M1rai/Layout-flex-second-site"
+  },
+  "author": "M1rai",
+  "license": "ISC"
+}
